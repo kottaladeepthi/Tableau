@@ -1,0 +1,24 @@
+🌟 Presenting My Stock Performance Dashboard! 🌟 
+
+My latest Tableau project—a Stock Performance Dashboard that analyzes the last year’s performance of tech giants like Apple, Amazon, Microsoft, Okta, and Tesla! 
+
+💡 What’s Inside the Dashboard?
+Using Google Sheets and the Google Finance function, I collected real-time stock data for the past year (January 2024–December 2024). Then, I brought the data to life with Tableau to deliver actionable insights and a sleek, interactive interface. 
+
+🔍 Visual Highlights:
+- Stock Area Chart: To visualize trends and fluctuations in stock prices. 
+- Profit & Loss Numbers: Breaking down gains and losses for each stock. 
+- Volatility Bubble Chart: Highlighting stock volatility over the year. 
+- Portfolio Line Chart: Showcasing overall portfolio growth. 
+- Volatility Chart: Analyzing periods of high and low volatility. 
+- Lollipop Chart: For a unique and visually engaging comparison of performance metrics. 
+- Portfolio Value Cards: Displaying the total value of the portfolio at a glance. 
+- Profit/Loss Percentage Charts: For quick insights into overall performance. 
+
+🌟 Learning Takeaways: 
+This project allowed me to: 
+- Automate data collection with Google Sheets and the Google Finance function. 
+- Design advanced Data Visualizations to make financial analysis intuitive. 
+- Deliver insights on market trends and portfolio performance to drive better decision-making. 
+
+📌 Explore the Dashboard: https://lnkd.in/g2SQKtKY
